@@ -16,7 +16,9 @@ npm install --save tg-button-ui
 ## Usage
 
 `TYPE = [small , large , radius-1 , radius-2 , shadow , dotted , dashed]`
+<br>
 `COLOR = [baby-blue , melon , mint-green , lilac , pome-flo , turquoise , purple , fuchsia , orange]`
+<br>
 
 ```jsx
 import React, { Component } from 'react'
